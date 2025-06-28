@@ -1,4 +1,4 @@
-# SuperStore Returns & Loss Analysis
+# SuperStore Profit & Loss Analysis
 
 A brief description of what this project does and who it is for*📊 SuperStore Returns & Loss Analysis
 
@@ -13,7 +13,7 @@ inprovement areas in the product, region, and time dimensions.
 
 ## 📂 Data Source 
 
-**Dataset** [SuperStore](https://public.tableau.com/app/profile/lonn.mejiano/viz/SuperStoreReturnsAnalysis_17506296422590/SalesReturnsCorrelated)
+**Dataset** [SuperStore](https://public.tableau.com/app/profile/lonn.mejiano/viz/Superstore_Analysis_17495396141450/Advertising)
 
 -**Orders Sheet** Used
 
