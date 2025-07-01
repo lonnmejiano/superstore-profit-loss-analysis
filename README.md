@@ -51,9 +51,10 @@ This project investigates **profit and loss patterns** within a fictional Supers
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-![Superstore Dashboard Preview](![superstore-loss-profit](https://github.com/lonnmejiano/superstore-profit-loss-analysis)
+![superstore-loss-profit](https://github.com/user-attachments/assets/3b902ed4-8ea1-4ecb-af36-a2b8b0c9b13f)
+
 
 > *Interactive dashboard features available in the full Tableau workbook.*
 
@@ -69,9 +70,9 @@ This project investigates **profit and loss patterns** within a fictional Supers
 
 ## 🔗 Explore the Project
 
-- 📄 [Tableau Workbook (PDF Snapshot)](./assets/Superstore-Dashboard-Snapshot.pdf)
-- 📊 [Live Dashboard (if hosted)](https://public.tableau.com/app/profile/lonn.mejiano/viz/Superstore_Analysis_17495396141450/Advertising
 - 📁 [Source Data](https://docs.google.com/spreadsheets/d/1-Q13-wWuP2V_fzP9aKu7MzIOV--2Yre0/edit?usp=drive_link&ouid=105226035547462185560&rtpof=true&sd=true)
+- 📊 [Live Dashboard](https://public.tableau.com/app/profile/lonn.mejiano/viz/Superstore_Analysis_17495396141450/Advertising
+
 
 ---
 
