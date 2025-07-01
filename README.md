@@ -70,8 +70,8 @@ This project investigates **profit and loss patterns** within a fictional Supers
 ## 🔗 Explore the Project
 
 - 📄 [Tableau Workbook (PDF Snapshot)](./assets/Superstore-Dashboard-Snapshot.pdf)
-- 📊 [Live Dashboard (if hosted)](https://public.tableau.com/app/profile/lonnmejiano/viz/SuperstoreReturnsDashboard/Overview)
-- 📁 [Source Data](./data/Superstore.xlsx)
+- 📊 [Live Dashboard (if hosted)](https://public.tableau.com/app/profile/lonn.mejiano/viz/Superstore_Analysis_17495396141450/Advertising
+- 📁 [Source Data](https://docs.google.com/spreadsheets/d/1-Q13-wWuP2V_fzP9aKu7MzIOV--2Yre0/edit?usp=drive_link&ouid=105226035547462185560&rtpof=true&sd=true)
 
 ---
 
