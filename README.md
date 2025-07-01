@@ -1,3 +1,6 @@
+![Banner](https://github.com/lonnmejiano/REPO/blob/main/assets/banner.png?raw=true)
+
+
 # 📊 Superstore Profit & Loss Analysis
 
 **Project Type**: Business Intelligence Dashboard  
