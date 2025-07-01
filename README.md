@@ -1,23 +1,90 @@
-# SuperStore Profit & Loss Analysis
+# 📊 Superstore Profit & Loss Analysis
 
-A brief description of what this project does and who it is for*📊 SuperStore Returns & Loss Analysis
+**Project Type**: Business Intelligence Dashboard  
+**Tools Used**: Tableau, Excel, SQL (simulated logic)  
+**Status**: Completed | June 2025  
+**Role**: Analyst, Visual Storyteller, Dashboard Developer
 
-This Tableau Dashboard analyzes customer returns from the SuperStore Dataset to identify patterns, quatify losses, and uncover
-inprovement areas in the product, region, and time dimensions.
+---
 
-## 🔍 Project Objectives
-- Calculate return rates across product categories and multilple regions
-- Visualize the return patterns over time
-- Quantify sales lost due to many returns in severeral categorys
-- Indentify the highest-risk of categories and geographics
+## 📌 Overview
 
-## 📂 Data Source 
+This project investigates **profit and loss patterns** within a fictional Superstore dataset, focusing on how **return rates** impact overall business performance. As a Business Intelligence Analyst, I developed a multi-layered Tableau dashboard to deliver actionable insights to stakeholders — guiding data-driven decisions for the Supply Chain and Sales teams.
 
-**Dataset** [SuperStore](https://public.tableau.com/app/profile/lonn.mejiano/viz/Superstore_Analysis_17495396141450/Advertising)
+---
 
--**Orders Sheet** Used
+## 🎯 Objectives
 
-## 🧮 Calculated Fields Used
+- Identify **high-return, low-profit segments**
+- Visualize **monthly profit trends** across regions and categories
+- Analyze **correlations** between sales and return rates
+- Support **executive decision-making** with interactive dashboards
 
-###' 'Return Flag'
-IF [Returned] = "Yes" THEN 1 ELSE 0 END
+---
+
+## 🛠️ Methods & Techniques
+
+- **Data Preparation**:
+  - Cleaned Excel datasets and created calculated fields for return rate logic
+  - Used conditional logic (`IF NULL → 0, IF 'Yes' → 1`) to simulate binary return indicators
+
+- **Visual Analysis**:
+  - **Dual-Axis Charts**: Sales vs. Return Rate
+  - **Category Drilldowns**: Profitability by Segment, Region, and Product Line
+  - **Geographic Heat Maps**: Visualized return trends across U.S. regions
+
+- **KPIs Tracked**:
+  - Return Rate = `SUM([Returned]) / COUNT([Order ID])`
+  - Net Profit = `Sales - Returns - Discounts`
+  - Monthly Loss Concentration
+
+---
+
+## 📈 Results & Insights
+
+- 📉 **Identified Categories**: High return rates in Office Supplies and Technology segments led to **net losses** in key months
+- 📍 **Region-Specific Trends**: Western and Southern regions showed **disproportionate return activity**
+- 🔄 **Strategic Recommendations**:
+  - Adjust supplier contracts for high-return items
+  - Review fulfillment issues linked to returns
+  - Increase QA measures on products with >10% return rates
+
+---
+
+## 📷 Dashboard Preview
+
+![Superstore Dashboard Preview](./assets/superstore-dashboard-preview.png)
+
+> *Interactive dashboard features available in the full Tableau workbook.*
+
+---
+
+## 🧠 Key Learnings
+
+- Designed executive-level visualizations using **dual-axis storytelling**
+- Practiced **KPI alignment** with business goals in supply chain and finance
+- Developed intuition for uncovering **profit-impacting variables** in BI contexts
+
+---
+
+## 🔗 Explore the Project
+
+- 📄 [Tableau Workbook (PDF Snapshot)](./assets/Superstore-Dashboard-Snapshot.pdf)
+- 📊 [Live Dashboard (if hosted)](https://public.tableau.com/app/profile/lonnmejiano/viz/SuperstoreReturnsDashboard/Overview)
+- 📁 [Source Data](./data/Superstore.xlsx)
+
+---
+
+## 💼 About the Analyst
+
+**Lonn M. Mejiano**  
+Business Intelligence Analyst | Aviation Ops Expert | Visual Storyteller  
+📍 Kennewick, WA  
+📫 [LinkedIn](https://linkedin.com/in/lonnmejiano) | [GitHub](https://github.com/lonnmejiano/lonnmejiano-data-bia)
+
+---
+
+> *“Insights in Focus. Strategy in Motion.”*
+
+
+
