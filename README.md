@@ -1,4 +1,6 @@
-![Banner](https://github.com/lonnmejiano/REPO/blob/main/assets/banner.png?raw=true)
+https://github.com/lonnmejiano/superstore-profit-loss-analysis/blob/main/cover/banner-superstore-1600x533.png
+
+
 
 
 # 📊 Superstore Profit & Loss Analysis
