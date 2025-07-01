@@ -2,9 +2,6 @@
 
 
 
-
-# 📊 Superstore Profit & Loss Analysis
-
 **Project Type**: Business Intelligence Dashboard  
 **Tools Used**: Tableau, Excel, SQL 
 **Status**: Completed | June 2025  
