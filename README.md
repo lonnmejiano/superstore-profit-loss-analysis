@@ -1,4 +1,4 @@
-https://github.com/lonnmejiano/superstore-profit-loss-analysis/blob/main/cover/banner-superstore-1600x533.png
+![banner-superstore-1600x533.png](https://github.com/user-attachments/assets/9f8f9d70-f2bc-4a39-8318-2830daaff2e6)
 
 
 
