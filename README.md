@@ -75,6 +75,19 @@ This project investigates **profit and loss patterns** within a fictional Supers
 - 📁 [Source Data](https://docs.google.com/spreadsheets/d/1-Q13-wWuP2V_fzP9aKu7MzIOV--2Yre0/edit?usp=drive_link&ouid=105226035547462185560&rtpof=true&sd=true)
 - 📊 [Live Dashboard](https://public.tableau.com/app/profile/lonn.mejiano/viz/Superstore_Analysis_17495396141450/Advertising
 
+## 📌 Strategic Recommendation
+
+Based on the profit-impact analysis, the following strategies are recommended:
+
+- 🛠️ **Supplier Review & Renegotiation**: High return rates in Office Supplies and Technology suggest the need to review product quality and renegotiate supplier contracts to include return allowances.
+
+- 🧾 **Enhance Product QA Controls**: Implement stricter quality assurance protocols for products with return rates exceeding 10%, especially those with historically negative margins.
+
+- 🚚 **Logistics Process Optimization**: Investigate fulfillment and packaging procedures in Western and Southern regions, which showed higher return incidents. This may include reviewing carrier performance or warehouse handling procedures.
+
+- 📢 **Customer Experience Feedback Loop**: Introduce post-return surveys to identify dissatisfaction drivers, enabling proactive improvements and minimizing repeat returns.
+
+These actions aim to reduce unnecessary revenue loss, improve supply chain efficiency, and enhance customer satisfaction — ultimately supporting SuperStore’s bottom-line performance.
 
 ---
 
